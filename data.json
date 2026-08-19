@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Plastic Bottle",
+    "description": "A plastic container commonly used for drinking water and beverages.",
+    "type": "Recyclable Plastic",
+    "recycle_details": "Empty and rinse the bottle. Remove excess liquid and place it in the appropriate plastic recycling collection. Flattening the bottle can reduce storage space.",
+    "recommendation": "Reuse the bottle when it is safe to do so. Otherwise, send it to a plastic recycling facility.",
+    "suggestion": "Avoid throwing plastic bottles into general waste. Carry a reusable water bottle to reduce plastic consumption."
+  },
+  {
+    "name": "Cardboard",
+    "description": "Paper-based packaging material commonly used for boxes and product packaging.",
+    "type": "Dry Recyclable",
+    "recycle_details": "Keep cardboard clean and dry. Remove plastic wrapping, food contamination and excessive tape where practical before recycling.",
+    "recommendation": "Flatten cardboard boxes and place them in dry-paper recycling.",
+    "suggestion": "Reuse boxes for storage or packing before recycling them."
+  },
+  {
+    "name": "Food Waste",
+    "description": "Organic waste generated from food preparation and leftover food.",
+    "type": "Organic Waste",
+    "recycle_details": "Food scraps can generally be processed through composting or other approved organic-waste systems.",
+    "recommendation": "Separate food waste from dry waste and use a suitable composting or organic-waste collection system.",
+    "suggestion": "Reduce food waste by planning meals, storing food correctly and using leftovers."
+  },
+  {
+    "name": "Glass Bottle",
+    "description": "A reusable or recyclable container made from glass.",
+    "type": "Glass Recyclable",
+    "recycle_details": "Empty the bottle and rinse it. Keep glass separated according to your local collection system. Do not mix broken glass loosely with ordinary household waste.",
+    "recommendation": "Reuse intact bottles where appropriate or take them to an approved glass-recycling collection point.",
+    "suggestion": "Handle broken glass carefully and follow local disposal instructions."
+  },
+  {
+    "name": "Metal Can",
+    "description": "Metal packaging commonly used for beverages and food products.",
+    "type": "Metal Recyclable",
+    "recycle_details": "Empty and rinse the can before placing it into a suitable metal recycling collection.",
+    "recommendation": "Recycle aluminium and steel cans through an approved recycling program.",
+    "suggestion": "Avoid putting cans containing hazardous substances into ordinary recycling."
+  },
+  {
+    "name": "Electronic Waste",
+    "description": "Discarded electronic equipment such as phones, computers, chargers and other electronic devices.",
+    "type": "E-Waste",
+    "recycle_details": "Electronic waste should be taken to an authorized e-waste collection or recycling facility. Batteries and certain components may require separate handling.",
+    "recommendation": "Do not place electronic devices in ordinary household waste. Use an authorized e-waste recycler.",
+    "suggestion": "Repair, donate or refurbish working electronics before recycling them."
+  },
+  {
+    "name": "Used Battery",
+    "description": "A spent portable battery from an electronic device, toy or household product.",
+    "type": "Hazardous / E-Waste",
+    "recycle_details": "Do not place batteries in ordinary household waste. Use an approved battery or e-waste collection facility.",
+    "recommendation": "Keep used batteries separate and take them to an authorized collection point.",
+    "suggestion": "Prevent short circuits by handling damaged batteries carefully and following the collection facility's instructions."
+  },
+  {
+    "name": "Used Clothes",
+    "description": "Clothing that is no longer wanted or suitable for regular use.",
+    "type": "Textile Waste",
+    "recycle_details": "Clean and usable clothing can often be donated or reused. Damaged textiles may be accepted by specialized textile-recycling programs.",
+    "recommendation": "Donate usable clothing before considering disposal.",
+    "suggestion": "Repair damaged clothes or repurpose them as cleaning cloths where appropriate."
+  },
+  {
+    "name": "Paper",
+    "description": "Common paper products such as office paper, newspapers and notebooks.",
+    "type": "Dry Recyclable",
+    "recycle_details": "Keep paper clean and dry and separate it from food waste and other contamination.",
+    "recommendation": "Place clean paper into an appropriate paper-recycling stream.",
+    "suggestion": "Use both sides of paper when possible before recycling."
+  },
+  {
+    "name": "Organic Garden Waste",
+    "description": "Leaves, grass clippings, small plant trimmings and other biodegradable garden material.",
+    "type": "Organic Waste",
+    "recycle_details": "Garden waste can often be composted or processed through an approved green-waste collection system.",
+    "recommendation": "Compost suitable garden waste or use a local green-waste collection service.",
+    "suggestion": "Use composted organic material to improve soil instead of sending it to landfill."
+  }
+]
